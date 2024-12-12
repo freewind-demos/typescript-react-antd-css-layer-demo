@@ -1,0 +1,10 @@
+/* Try to override antd Select styles with normal specificity */
+.ant-select-selector {
+    background: #f5222d;
+    border-color: #722ed1;
+}
+
+.ant-select-selection-item {
+    color: white;
+    font-weight: bold;
+}
